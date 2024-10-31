@@ -1,4 +1,4 @@
-package com.myproducts.ProductCRUD;
+package com.products.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
