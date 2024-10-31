@@ -5,7 +5,6 @@ import java.util.Optional;
 
 import com.products.exception.ResourceNotFoundException;
 import com.products.model.Product;
-import com.products.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
